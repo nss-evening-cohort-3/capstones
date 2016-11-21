@@ -1,6 +1,11 @@
 # E3 Capstones
 
-## Requirements
+## Project Specifications
+
+- Must be a ASP.NET MVC web application.
+- Must call at least one API endpoint from eiher a 3rd party or created by the student.
+- AngularJS usage is not required but highly encouraged.
+- Games are discouraged and will be a considered on a case-by-case basis.
 
 ## Important Dates
 
