@@ -24,3 +24,7 @@
   - List of stretch goals
 3. After submittal, any further discussion bewteen the student and instructors will happen on submitted issue.
 4. A successfully accepted capstone will marked with the "Approved" label. Students are to get their issue marked with the "Approved" label by December 3rd.
+
+## [Example of Previous Projects](/previous-projects.md)
+
+
